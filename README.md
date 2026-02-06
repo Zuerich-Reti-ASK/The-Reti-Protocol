@@ -10,6 +10,7 @@
 - **Caissa-Nexus (Database):** Das zentrale Nervensystem auf Basis von Supabase.
 - **Hypermodern Harvester (Scraper):** Automatisierte Datenextraktion via Base64-URLs.
 - **Helvetia-Sync (Bridge):** Nahtlose Anbindung an die Google Workspace Umgebung.
+- **The Rulebook:** Regel Konfiguration für eine Dynamische Spielerberechtigung
 
 ---
 *„Wir suchen im Schachspiel nicht nach dem Sieg, sondern nach der Wahrheit.“ – Richard Réti*
