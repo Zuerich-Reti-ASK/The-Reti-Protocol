@@ -1,1 +1,1 @@
-# The-R-ti-Protocol
+# The-Reti-Protocol
